@@ -1,0 +1,34 @@
+CACHE MANIFEST
+#v1,basic app
+#v1.1,added css changes to make sure multiples cant be started accidentally.
+#v1.5, added layout fixes, header and footer
+#v2, fixed unlimited player turns bug
+#v2.1, fixed unlimited 1st player turns bug
+#v2.2, fixed allowing places empty after propagation to be reused by other players
+#v2.3, IE dataset hack
+#v2.3.5, IE fix
+ 
+chain.css
+chain.htm
+chain.js
+Images\blue-sphere-100-1.png
+Images\blue-sphere-100-2.png
+Images\blue-sphere-100-3.png
+Images\green-sphere-100-1.png
+Images\green-sphere-100-2.png
+Images\green-sphere-100-3.png
+Images\orange-sphere-100-1.png
+Images\orange-sphere-100-2.png
+Images\orange-sphere-100-3.png
+Images\pink-sphere-100-1.png
+Images\pink-sphere-100-2.png
+Images\pink-sphere-100-3.png
+Images\red-sphere-100-1.png
+Images\red-sphere-100-2.png
+Images\red-sphere-100-3.png
+Images\violet-sphere-100-1.png
+Images\violet-sphere-100-2.png
+Images\violet-sphere-100-3.png
+Images\yellow-sphere-100-1.png
+Images\yellow-sphere-100-2.png
+Images\yellow-sphere-100-3.png
